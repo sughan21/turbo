@@ -903,7 +903,6 @@ hr {
   width: 100vw;
   height: 15rem;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
   gap: 16.5rem;
@@ -993,7 +992,7 @@ button {
 
 input {
   width: 18vw;
-  height: 8vh;
+  height: 6vh;
   position: relative;
   bottom: 0.5rem;
   right: 3rem;
@@ -1040,10 +1039,11 @@ input {
 }
 
 .name {
-  margin-right: 2.5rem;
+  margin-right: 5rem;
 }
 
 .send-btn {
   width: 3.5rem;
-  height: 3.52rem;
+  height: 2.7rem;
+  margin-right: 3rem;
 }
